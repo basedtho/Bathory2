@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/tho/dev/cpp/Bathory2/builddir",
+    "command": "clang++ -Ibathory2.p -I. -I.. -I../third_party/pugixml/src -I/usr/include -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -MD -MQ bathory2.p/src_main.cpp.o -MF bathory2.p/src_main.cpp.o.d -o bathory2.p/src_main.cpp.o -c ../src/main.cpp",
+    "file": "../src/main.cpp",
+    "output": "bathory2.p/src_main.cpp.o"
+  },
+  {
+    "directory": "/home/tho/dev/cpp/Bathory2/builddir",
+    "command": "clang++ -Ibathory2.p -I. -I.. -I../third_party/pugixml/src -I/usr/include -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -MD -MQ bathory2.p/src_article.cpp.o -MF bathory2.p/src_article.cpp.o.d -o bathory2.p/src_article.cpp.o -c ../src/article.cpp",
+    "file": "../src/article.cpp",
+    "output": "bathory2.p/src_article.cpp.o"
+  },
+  {
+    "directory": "/home/tho/dev/cpp/Bathory2/builddir",
+    "command": "clang++ -Ibathory2.p -I. -I.. -I../third_party/pugixml/src -I/usr/include -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -MD -MQ bathory2.p/src_feed.cpp.o -MF bathory2.p/src_feed.cpp.o.d -o bathory2.p/src_feed.cpp.o -c ../src/feed.cpp",
+    "file": "../src/feed.cpp",
+    "output": "bathory2.p/src_feed.cpp.o"
+  },
+  {
+    "directory": "/home/tho/dev/cpp/Bathory2/builddir",
+    "command": "clang++ -Ibathory2.p -I. -I.. -I../third_party/pugixml/src -I/usr/include -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -MD -MQ bathory2.p/src_window.cpp.o -MF bathory2.p/src_window.cpp.o.d -o bathory2.p/src_window.cpp.o -c ../src/window.cpp",
+    "file": "../src/window.cpp",
+    "output": "bathory2.p/src_window.cpp.o"
+  },
+  {
+    "directory": "/home/tho/dev/cpp/Bathory2/builddir",
+    "command": "clang++ -Ibathory2.p -I. -I.. -I../third_party/pugixml/src -I/usr/include -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -MD -MQ bathory2.p/third_party_pugixml_src_pugixml.cpp.o -MF bathory2.p/third_party_pugixml_src_pugixml.cpp.o.d -o bathory2.p/third_party_pugixml_src_pugixml.cpp.o -c ../third_party/pugixml/src/pugixml.cpp",
+    "file": "../third_party/pugixml/src/pugixml.cpp",
+    "output": "bathory2.p/third_party_pugixml_src_pugixml.cpp.o"
+  }
+]
